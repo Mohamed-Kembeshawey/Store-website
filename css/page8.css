@@ -1,0 +1,71 @@
+
+
+* {
+  margin: 0px; 
+  padding: 0px; 
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  font-family: SourceSansPro-Regular, sans-serif;
+}
+button {
+  outline: none !important;
+  border: none;
+  background: transparent;
+}
+
+.container-login100 {
+  width: 100%;  
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+}
+.btn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  min-width: 160px;
+  height: 160px;
+  border-radius: 100px;
+  background-color:#FFA500 ;
+  font-family: SourceSansPro-SemiBold;
+  font-size: 14px;
+  color: #fff;
+  line-height: 1.2;
+  text-transform: uppercase;
+  float: left;
+  margin: 25px 25px 50px 50px;
+}
+form
+{
+    float: left;
+}
+.btn:hover
+{
+	background-color: #FFC500 
+}
+.btn:active
+{
+   background-color:#FF4500 ;
+}
+
+.m-r{
+  margin-left: auto;
+}

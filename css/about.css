@@ -1,0 +1,117 @@
+
+
+
+body
+{
+  
+    margin:0;
+    padding:0;
+    background:url(../images/image.jpg);
+    font-family: sans-serif;
+
+}
+.cont-form1
+{
+     padding-left: 300PX;
+}
+#cont-form{
+  color:#fff;
+  text-align:center; 
+  font-size:25px;  
+    text-rendering:geometricPrecision;
+    background-color:#4c313191;
+width: 950PX;
+    border-radius: 15px;
+   
+}
+
+.cont h1
+{
+  text-align:center;
+  margin-right:1000px;
+  margin-top:150px;
+  font-size:40px;
+  color:#fff;
+  line-height:10px;
+}
+.cont h2
+{ 
+  color:coral;
+  margin-top:30px;
+  text-align:center;
+  font-size:30px;
+}
+.cont h3
+{ 
+  margin-top:50px;
+  text-align:center;
+  font-size:25px;
+    color:coral;
+}
+
+form
+{
+ margin-top: 50px;
+ transition:all 4s ease-in-out;
+}
+
+
+.form-control
+{
+ width:600px;
+ border:none;
+ outline:none;
+ transition:all 4s ease-in-out;
+ background:transparent;
+ border-bottom:1px solid gray; 
+ color:#fff;
+ font-size:18px;
+ margin-bottom:16px;
+}
+
+.log
+{
+ width:50px;
+ height:20px;
+ background: rgb(230,230,230);
+ padding:5 5 5 5px;
+ border-radius:10%;
+ margin-top:40px;
+ margin-left:10px;
+}
+.footer
+{
+    background: #333333;
+    overflow: hidden;
+    padding: 5px 150px;
+    color: #ddd;
+    margin-top:10px; 
+}
+.footer .foot
+{
+    width: 29%;
+    float: left;
+    margin-right: 50px;
+}
+.footer .foot h3
+{
+    margin: 20px 0;
+}
+.footer .foot input{ width: 259px;padding: 8px;margin-top: 9px;background: #222;color: #ccc;border: 1px solid #444;}
+.footer .foot button
+{
+    background: #699867;
+    padding: 8px 3px;
+}
+.copy
+{
+    text-align: center;
+    background: #222;
+    padding: 10px;
+    color: #ddd;
+}
+.about
+{
+    color: white;
+  font-size: 15px;  
+}
